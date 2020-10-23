@@ -1,0 +1,3 @@
+name=Nodes
+description=This shelf has a symphony of its own. A pair of nodes to carry the essesntial pocket gear in your living room.
+price=Rs. 3400
