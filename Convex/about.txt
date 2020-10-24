@@ -1,3 +1,4 @@
 name=Convex
 description=A unique archetecture, perfect for books and plants. Available in high quality chipboard and fine wood.
 price=Starting from Rs. 7900
+order link=http://bit.ly/shelves_order_convex
