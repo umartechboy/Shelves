@@ -1,0 +1,4 @@
+name=Corner
+description=Room corners are tricky places. You need to utilize them smartly and as efficiently as our Corner shelf.
+price=Rs. 2500
+order link=http://bit.ly/shelves_order_corner

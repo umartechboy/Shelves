@@ -1,0 +1,4 @@
+name=Plank
+description=Simplicity is the best solution to a lot of problems. Like decorating a wall with money plant or a wine. Plank handles such situations with simplicity and elegance.
+price=Rs. 3400
+order link=http://bit.ly/shelves_order_plank
